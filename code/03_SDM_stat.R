@@ -176,7 +176,10 @@ for(s in 109:length(spp_list)) {
   
 }
 
+head(predsx)
 ## save predictions
+
+write.csv(predsx, "/Users/katieirving/Documents/Documents - Katie’s MacBook Pro/git/JPA_Hybrid_SDMs2/SDM/Results/predictions/03_ensemble_predictions_SOC_all_species.csv" )
 
 ## stopped
 ## 65 
