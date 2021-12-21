@@ -1,0 +1,17 @@
+"","Isoperla","corTest.corTest","corTest.lower","corTest.upper","AUCtest.variables","AUCtest.AUCtest","AUCtest.lower","AUCtest.upper"
+"DS_Tim","DS_Tim",0.5952,NA,NA,"DS_Tim",0.0718,NA,NA
+"DS_Mag_50","DS_Mag_50",0.6533,NA,NA,"DS_Mag_50",0.0882,NA,NA
+"DS_Mag_90","DS_Mag_90",0.5045,NA,NA,"DS_Mag_90",0.0916,NA,NA
+"SP_ROC","SP_ROC",0.014,NA,NA,"SP_ROC",0.0126,NA,NA
+"SP_Dur","SP_Dur",0.7456,NA,NA,"SP_Dur",0.2122,NA,NA
+"SP_Mag","SP_Mag",0.5082,NA,NA,"SP_Mag",0.142,NA,NA
+"SP_Tim","SP_Tim",0.483,NA,NA,"SP_Tim",0.0406,NA,NA
+"Wet_BFL_Dur","Wet_BFL_Dur",0.7395,NA,NA,"Wet_BFL_Dur",0.2444,NA,NA
+"Wet_BFL_Mag_10","Wet_BFL_Mag_10",0.5102,NA,NA,"Wet_BFL_Mag_10",0.0886,NA,NA
+"Wet_BFL_Mag_50","Wet_BFL_Mag_50",0.2531,NA,NA,"Wet_BFL_Mag_50",0.0426,NA,NA
+"Wet_Tim","Wet_Tim",0.7654,NA,NA,"Wet_Tim",0.029,NA,NA
+"DS_Dur_WS","DS_Dur_WS",0.4701,NA,NA,"DS_Dur_WS",0.0476,NA,NA
+"Q99","Q99",0.4904,NA,NA,"Q99",0.0602,NA,NA
+"FA_Dur","FA_Dur",0.0363,NA,NA,"FA_Dur",0.0154,NA,NA
+"FA_Mag","FA_Mag",0.3203,NA,NA,"FA_Mag",0.0772,NA,NA
+"FA_Tim","FA_Tim",0.9638,NA,NA,"FA_Tim",0.142,NA,NA
